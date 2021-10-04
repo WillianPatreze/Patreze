@@ -1,0 +1,5 @@
+body {
+    background: url(../imagens/ruido.png),
+    linear-gradient(50deg, #BC8F8F,#7c26f8);
+    background-attachment: fixed;
+}
